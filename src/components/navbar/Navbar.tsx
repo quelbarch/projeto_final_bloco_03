@@ -9,7 +9,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2">
           <img 
-            src="https://media.discordapp.net/attachments/1509621329005908027/1544304495855538211/logo.png?ex=6a980523&is=6a96b3a3&hm=a1cc1ec612bb9a14a7aeed3e6e4f90ab4646dc1fe8719b07f12d9245a2760711&=&format=webp&quality=lossless" 
+            src="https://ik.imagekit.io/fzwwxiux2/logo.png" 
             alt="Logo Farmácia" 
             className="h-16 w-auto"
           />

@@ -22,7 +22,7 @@ function Home() {
         {/* Lado Direito - Imagem */}
         <div className="flex justify-center items-center">
           <img
-            src="https://media.discordapp.net/attachments/1509621329005908027/1544304495448821780/home.png?ex=6a980523&is=6a96b3a3&hm=037cfb574d968ae0c48c673f457f2431db9bd2dfb58dbfff1d5db4cc370950ee&=&format=webp&quality=lossless&width=640&height=640"
+            src="https://ik.imagekit.io/fzwwxiux2/home.webp"
             alt="Imagem Farmacêutica"
             className="w-3/4 max-w-md"
           />
