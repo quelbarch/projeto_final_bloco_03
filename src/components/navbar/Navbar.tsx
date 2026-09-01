@@ -36,6 +36,8 @@ export default function Navbar() {
         <div className="flex items-center gap-6 font-medium text-base">
           <Link to="/categorias" className="hover:underline">Categorias</Link>
           <Link to="/cadastrarcategoria" className="hover:underline">Cadastrar Categoria</Link>
+          <Link to="/produtos" className="hover:underline">Produtos</Link>
+          <Link to="/cadastrarproduto" className="hover:underline">Cadastrar Produtos</Link>
           <div className="flex gap-4 items-center ml-2">
             <User size={32} />
             <ShoppingCart size={32} />
